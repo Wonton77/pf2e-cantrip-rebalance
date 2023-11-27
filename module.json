@@ -1,9 +1,9 @@
 {   
    "id": "pf2e-cantrip-rebalance",
    "title": "PF2E Cantrip Rebalance",
+   "url": "https://github.com/Wonton77/pf2e-cantrip-rebalance",
    "description": "A set of homebrew changes to make every damaging cantrip in PF2E somewhat viable at all levels (even Daze)", 
    "version": "0.5",
-
    "packs": [
     {
       "label": "PF2E Cantrip Rebalance",
@@ -35,6 +35,8 @@
       }
     ]
   },
+  "manifest": "https://github.com/Wonton77/pf2e-cantrip-rebalance/blob/main/module.json",
+  "download": "https://github.com/Wonton77/pf2e-cantrip-rebalance/releases/download/v0.5/pf2e-cantrip-rebalance.zip",
   "authors": [
     {
       "name": "Wonton",
