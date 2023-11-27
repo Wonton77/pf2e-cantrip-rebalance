@@ -4,7 +4,8 @@ A homebrew rebalance of PF2E post-remaster damaging cantrips.
 ## Goals
 
 - Make each cantrip viable (read: competitive with Electric Arc) in at least some situations
-- Make a more fair, consistent tradeoff for save (half damage on Success) vs attack roll (0 damage when you miss) cantrips
+- Make a more fair, consistent tradeoff for save (half damage on Success) vs attack roll (0 damage when you miss)
+- Even out Heightening so relative balance does not change with level
 - Re-introduce 120ft range cantrips and increase the number of them
 
 ## Quick Summary
