@@ -3,7 +3,7 @@ A homebrew rebalance of PF2E post-remaster damaging cantrips.
 
 ## Goals
 
-- Make each cantrip viable (that means, at minimum competitive with Electric Arc) in at least some situations
+- Make each cantrip viable (read: competitive with Electric Arc) in at least some situations
 - Make a more fair, consistent tradeoff for save (half damage on Success) vs attack roll (0 damage when you miss) cantrips
 - Re-introduce 120ft range cantrips and increase the number of them
 
@@ -15,3 +15,7 @@ A homebrew rebalance of PF2E post-remaster damaging cantrips.
 4. Single-target attacks (Needle Darts) - 2d6 + 1d6 (Heightened), 120ft range
 5. Melee multi-target saves (Gale Blast) - 2d4 + 1d4 (Heightened)
 6. Melee single-target (Gouging Claw) - 2d6 + 1d6 (Heightened) plus persistent
+
+## Usage
+
+Install & enable the module, you will see a "PF2E Cantrip Rebalance" compendium appear. Optionally, you can right-click -> "Import All Content" to add it to the Items tab.
