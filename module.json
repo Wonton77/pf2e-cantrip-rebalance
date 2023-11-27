@@ -1,0 +1,44 @@
+{   
+   "id": "pf2e-cantrip-rebalance",
+   "title": "PF2E Cantrip Rebalance",
+   "description": "A set of homebrew changes to make every damaging cantrip in PF2E somewhat viable at all levels (even Daze)", 
+   "version": "0.5",
+
+   "packs": [
+    {
+      "label": "PF2E Cantrip Rebalance",
+      "name": "pf2e-cantrip-rebalance",
+      "path": "packs/pf2e-cantrip-rebalance",
+      "banner": "systems/pf2e/assets/compendium-banner/blue.webp",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "type": "Item",
+      "flags": {}
+    }
+   ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "5.9.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Wonton",
+      "flags": {}
+    }
+  ]
+ }
