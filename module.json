@@ -35,7 +35,7 @@
       }
     ]
   },
-  "manifest": "https://github.com/Wonton77/pf2e-cantrip-rebalance/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Wonton77/pf2e-cantrip-rebalance/main/module.json",
   "download": "https://github.com/Wonton77/pf2e-cantrip-rebalance/releases/download/v0.5/pf2e-cantrip-rebalance.zip",
   "authors": [
     {
